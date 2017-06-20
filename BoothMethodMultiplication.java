@@ -76,7 +76,7 @@ public class BoothMethodMultiplication {
 
     /**
      * Recursive method. Compares two rightmost bits of P with 4 conditions and applies proper action onto it (Step 2),
-     * then shifts P to the right by one bit (Step 3), prints each operation to console, and finally calls itself again
+     * then shifts P to the right by one bit (Step 3), prints each operation to console, and finally, calls itself again
      * with one less operation and a new P value.
      *
      * @param numberOfOperations The number of operations needed to obtain a product. *See algorithm.
