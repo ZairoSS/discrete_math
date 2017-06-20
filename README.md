@@ -10,7 +10,7 @@ To run these programs from console do the following:
   - javac filename.java
   - java filename.
  
- Booth's Multiplication
+ # Booth's Multiplication
  
  Prints all operations directly to console in the form of a table to help students visualize binary numbers and facilitate 
  the understanding of the concept. The algorithm for Booth's Method is located at the top of the file within a comment. 
